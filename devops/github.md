@@ -16,7 +16,8 @@ git checkout new-branch
 
 -   faire une PR ✔️ -> sur github.com, créer un PR avec commentaire
 -   utiliser git rebase pour faire des commits propres ❌ / ✔️
--   utiliser les gitHub actions ❌ / ✔️
+-   utiliser les gitHub actions ✔️ ->  
+    Les GitHub actions sont des scripts qui s'executent à chaque fois que l'on push / merge (plusieurs déclencheurs sont possibles) sur une ou plusieurs branches. On peut par exemple utiliser les GitHub actions pour lancer des tests unitaires à chaque fois que l'on push sur une branche. Ensuite, on peut configurer les GitHub actions pour qu'elles envoient un mail à l'équipe de développement si les tests unitaires échouent.
 
 ## 💻 J'utilise
 
